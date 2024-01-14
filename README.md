@@ -1,4 +1,4 @@
-# Disagreement-aware Variable Impedance controller (DAVI)
+# Disagreement-Aware Variable Impedance (DAVI) controller
 
 If you found this repo useful for your research, please cite it as:
 
